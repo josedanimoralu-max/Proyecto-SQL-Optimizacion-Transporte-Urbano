@@ -38,6 +38,3 @@ Como parte del módulo de optimización, se aplicaron las siguientes estrategias
 * **Lenguaje:** SQL (Structured Query Language).
 * **Motor de Base de Datos:** MySQL.
 * **Herramientas:** MySQL Workbench, Excel (para limpieza de datos preliminar).
-
----
-*Autor: José Morales - Grupo 1 | Data Foundations Program*
